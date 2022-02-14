@@ -9,6 +9,11 @@ Realtor - an amazing Real Estate Application. With rental homes and for-sale pro
 https://realtor-sandy.vercel.app/
 
 
+## Screenshots
+
+![App Screenshot](https://github.com/aantor/assets/blob/main/Screenshot_1.png?text=App+Screenshot+Here)
+
+
 ## Tech Stack
 
 **Client:** React, NextJs, ChakraUi
@@ -30,9 +35,6 @@ If you have any feedback, please reach out to me at antorinfo@gmail.com
 - [@antor](https://www.github.com/aantor)
 
 
-## Screenshots
-
-![App Screenshot](https://github.com/aantor/assets/blob/main/Screenshot_1.png?text=App+Screenshot+Here)
 
 
 
