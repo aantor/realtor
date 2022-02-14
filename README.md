@@ -1,3 +1,42 @@
+
+# REALTOR - A Modern Real Estate App
+
+Realtor - an amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more.
+
+
+## Demo
+
+https://realtor-sandy.vercel.app/
+
+
+## Tech Stack
+
+**Client:** React, NextJs, ChakraUi
+
+**Server:** Node, Express
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at antorinfo@gmail.com
+
+
+## Authors
+
+- [@antor](https://www.github.com/aantor)
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/aantor/assets/blob/main/Screenshot_1.png?text=App+Screenshot+Here)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
